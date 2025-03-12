@@ -19,7 +19,7 @@ Nature International Cruise Excellence (NICE) is a cruise management system desi
 ## Installation & Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Full-Stack-Project-Cruise-Management-System.git
+   git clone https://github.com/dinesh-sathunuri/Full-Stack-Project-Cruise-Management-System.git
    cd Full-Stack-Project-Cruise-Management-System
    ```  
 2. **Backend Setup**:  
